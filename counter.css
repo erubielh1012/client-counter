@@ -31,7 +31,7 @@ h3 {
 div {
     max-width: 50%;
     width: 400;
-    height: 425;
+    height: auto;
     background-color: seashell;
     padding: 10px;
     color: black;
